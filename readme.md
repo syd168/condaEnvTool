@@ -43,13 +43,13 @@ cd condaEnvTool
 ```bash
 ./mkenv.sh myenv 3.9
 ```
-!["create env"]("create.png")
+!["create env"](https://github.com/syd168/condaEnvTool/blob/main/create.png)
 
 ### Example --remove env
 
 ```bash
 ./rmenv.sh myenv
 ```
-!["create env"]("remove.png")
+!["create env"](https://github.com/syd168/condaEnvTool/blob/main/remove.png)
 
 
